@@ -1,4 +1,12 @@
 # ACCELERATING-VACCINE-DEVELOPMENT
-## PROBLEM STATEMENT:
-Moderna is a global bio technology company which focuses on drug discovery and development. it requires a robust and scalable cloud infrastructure to mange massive data requirements and computations needs. The traditional methods of data processing and simulation in vaccine development are time-consuming and resource-intensive. This hinders the speed at which vaccines can be researched, tested, and brought to market, especially during a global health crisis.
+## OVERVIEW:
+Moderna, a leading biotechnology company, specializes in drug discovery and development. To support its large-scale data processing and computational needs, it requires a scalable and efficient cloud infrastructure. Traditional methods of data handling and simulations in vaccine development are slow and resource-intensive, delaying research, testing, and production. Implementing advanced cloud solutions can help accelerate the process, ensuring faster vaccine development, especially in times of global health emergencies.
+
+
+
+
+
+
+
+
 
